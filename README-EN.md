@@ -5,13 +5,13 @@
 ## What is it? 
 This is the source code of Linux 0.0.1, the first version of Linux. 
 
-Linux forgot this version and this is his friend's. 
+Linus forgot this version and this is his friend's. 
 
 ## Why Linux 0.0.1? 
 
 Now, (2020) Linux source code has million lines. Linux 0.0.1 is Simpler than it. 
 
-## How I use it? 
+## How can I use it? 
 
 There was a [Makefile](Makefile). You must install GCC-ARM on your Computer (because Linux use ARM Assembly, not AT&T). 
 
